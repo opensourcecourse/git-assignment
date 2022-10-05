@@ -10,7 +10,7 @@ the git web interface by clicking on "answers.md" in a new window, then click th
 [here](https://docs.github.com/en/repositories/working-with-files/managing-files/editing-files) for more
 details.
 
-# Task 1: Fork, Clone (5 points)
+# Task 1: Fork, clone (5 points)
 
 Fork the git repo named "git_repo" from the course organization. Make sure to fork all branches by unchecking
 the "fork only main branch" checkbox. The repo can be found [here](https://github.com/opensourcecourse/git_repo).
@@ -22,7 +22,7 @@ Hints:
 [Github fork documentation](https://docs.github.com/en/get-started/quickstart/fork-a-repo)
 
 
-# Task 2: Modify, Push (5 points)
+# Task 2: Modify, push (5 points)
 
 Add your name as a markdown link with a target to your personal github page to the file "students_who_win.md".
 It should look like this:
@@ -71,7 +71,7 @@ Hints:
 Now, squash all commits on branch_1 into a single commit, and push again. Paste the hash of the commit in 
 the fourth task of answers.md
 
-# Task 5: Archeology (Bonus, 5 points)
+# Task 5: Archeology (bonus, 5 points)
 
 A file called "secret.py" once existed in this repo. Use your git foo to find the commit hash it was created,
 deleted, and the comments of the file. Post your answers in Task 5 of answers.md
