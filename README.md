@@ -6,7 +6,9 @@ something like "How to do X in git" into google before asking for help. You will
 almost any git question on stackoverflow.
 
 Answers to each task will be input to "answers.md" of this repository. You can edit this directly using
-the git web interface by clicking on "answers.md" in a new window, then click the edit button. See
+the git web interface by clicking on "answers.md" in a new window, then click the edit button. Make sure
+you click on "Create a new branch for this commit and start a pull request." rather than commiting directly
+to main. See
 [here](https://docs.github.com/en/repositories/working-with-files/managing-files/editing-files) for more
 details.
 
