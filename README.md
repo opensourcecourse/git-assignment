@@ -1,7 +1,7 @@
 # Git assignment
 
 Now we get to practice git! You are encouraged to use git through the command line for this assignment,
-but you may use VCS integration with your IDE in the future. If you git stuck, first try typing
+but you may use VCS integration with your IDE in the future. If you get stuck, first try typing
 something like "How to do X in git" into google before asking for help. You will find solutions to
 almost any git question on stackoverflow.
 
