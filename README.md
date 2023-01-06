@@ -55,13 +55,13 @@ Paste the output of the command under task 3 in answers.md. What is the differen
 merging branch_2 and main will cause a conflict? 
 
 
-# Task 3: Conflict resolution (5 points) 
+# Task 4: Conflict resolution (5 points) 
 
 Next, checkout the main branch again and merge branch_2 into it. Resolve the conflict and commit. Make the commit
 message read "merge branch_2 into main" and push the new commit back to your fork. Paste the commit hash in answers.md
 under task_4.
 
-# Task 4: Rebase and squash (5 points)
+# Task 5: Rebase and squash (5 points)
 
 Next, checkout branch_1 and rebase it to main. Push the changes from branch_1 to your fork.
 
@@ -71,12 +71,12 @@ Hints:
  - [More on rebasing](https://stackoverflow.com/a/11566503/3645626)
 
 Now, squash all commits on branch_1 into a single commit, and push again. Paste the hash of the commit in 
-the fourth task of answers.md
+the Task 5 of answers.md
 
-# Task 5: Archeology (bonus, 5 points)
+# Task 6: Archeology (bonus, 5 points)
 
 A file called "secret.py" once existed in this repo. Use your git foo to find the commit hash it was created,
-deleted, and the comments of the file. Post your answers in Task 5 of answers.md
+deleted, and the comments of the file. Post your answers in Task 6 of answers.md
 
 # Submit PR
 
