@@ -59,7 +59,7 @@ merging branch_2 and main will cause a conflict?
 
 Next, checkout the main branch again and merge branch_2 into it. Resolve the conflict and commit. Make the commit
 message read "merge branch_2 into main" and push the new commit back to your fork. Paste the commit hash in answers.md
-under task_4.
+under Task 4.
 
 # Task 5: Rebase and squash (5 points)
 
