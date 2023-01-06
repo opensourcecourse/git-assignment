@@ -70,8 +70,8 @@ Hints:
  - When pushing, use the force.
  - [More on rebasing](https://stackoverflow.com/a/11566503/3645626)
 
-Now, squash all commits on branch_1 into a single commit, and push again. Paste the hash of the commit in 
-the Task 5 of answers.md
+Now, squash all changes to branch_1 into a single commit, and push again. There should be exactly two
+commits when you check the log. Paste the hash of the latter commit under Task 5 of answers.md
 
 # Task 6: Archeology (bonus, 5 points)
 
@@ -80,11 +80,12 @@ deleted, and the comments of the file. Post your answers in Task 6 of answers.md
 
 # Submit PR
 
-Finish editing answers.md. Ping the instructors with a comment that includes @instructors to let them know
+Finish editing answers.md. Open a PR (if editing answers.md in the browser use "propose changes"). Ping the instructors with a comment that includes @instructors to let them know
 you are ready for feedback. Wait. 
 
 # More hints
 
-If things get hopelessly mangled: ![](https://xkcd.com/1597/)
+If things get hopelessly mangled, try [this](https://xkcd.com/1597/)
+
 [Local and remote branches](https://stackoverflow.com/a/72156/3645626)
 
