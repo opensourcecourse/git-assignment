@@ -4,7 +4,7 @@ Output of git status
 
 # Task 2
 
-commit hash
+Commit hash
 
 # Task 3
 
@@ -12,7 +12,11 @@ Output of git diff for myscript.py
 
 # Task 4
 
-commit hash for rebased, squashed, branch_1
+Merged commit hash (after conflict resolution)
+
+# Task 4
+
+Commit hash for rebased, squashed, branch_1
 
 # Task 5 
 
