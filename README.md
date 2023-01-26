@@ -75,8 +75,8 @@ commits when you check the log. Paste the hash of the latter commit under Task 5
 
 # Task 6: Archeology (bonus, 5 points)
 
-A file called "secret.py" once existed in this repo. Use your git foo to find the commit hash it was created,
-deleted, and the comments of the file. Post your answers in Task 6 of answers.md
+A file called "secret.py" once existed in this repo (on the main branch). Checkout the main branch and use your git foo to find the commit hash it was created,
+deleted, and the contents of the file. Post your answers in Task 6 of answers.md
 
 # Submit PR
 
