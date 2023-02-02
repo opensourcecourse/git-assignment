@@ -33,14 +33,14 @@ It should look like this:
 [Derrick Chambers](github.com/d-chambers)
 ```
 
-Add the changes then commit. Make the commit message read "completed Task 1". Push the changes back 
+Add the changes then commit. Make the commit message read "completed Task 2". Push the changes back
 to your fork. 
 
 Next, paste the commit hash for the commit you just made under task 2 of answers.md. Here is an example commit hash:
 
 b0650b0f1fe6f2b831feb162879ce50da75784be
 
-Hint: remember git log
+Hint: remember `git log`
 
 # Task 3: Git diff (5 points)
 
@@ -50,7 +50,7 @@ The `-a` tells git to look at all branches, not just the local ones.
 Next, checkout branch_2. This will create a local copy of branch_2. Run `git branch` to verify a new local branch
 named branch_2 appears in the list.
 
-Now, use the git diff command to find the differences in *only* the file "myscript.py" between main and branch_2.
+Now, use the `git diff` command to find the differences in *only* the file "myscript.py" between main and branch_2.
 Paste the output of the command under task 3 in answers.md. What is the difference in this file? Do you suspect
 merging branch_2 and main will cause a conflict? 
 
@@ -80,8 +80,7 @@ deleted, and the contents of the file. Post your answers in Task 6 of answers.md
 
 # Submit PR
 
-Finish editing answers.md. Open a PR (if editing answers.md in the browser use "propose changes"). Ping the instructors with a comment that includes @instructors to let them know
-you are ready for feedback. Wait. 
+Finish editing answers.md. Open a PR (if editing answers.md in the browser use "Commit changes" and select "Create a new branch for this commit and start a pull request"). Ping the instructors with a comment that includes @instructors to let them know you are ready for feedback. Wait. 
 
 # More hints
 
