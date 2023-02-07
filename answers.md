@@ -14,11 +14,11 @@ Output of git diff for myscript.py
 
 Merged commit hash (after conflict resolution)
 
-# Task 4
+# Task 5
 
 Commit hash for rebased, squashed, branch_1
 
-# Task 5 
+# Task 6 
 
 created commit hash
 deleted commit hash
